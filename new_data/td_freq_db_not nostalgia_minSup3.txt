@@ -502,8 +502,8 @@ hope:8
 king:8
 future:8
 radio:8
-radio	played:3
 radio	play:3
+radio	played:3
 used:8
 late:8
 meaning:8
@@ -537,8 +537,8 @@ change:8
 change	gonna:3
 change	nothing:4
 sang:8
-sang	hits:3
 sang	hit:3
+sang	hits:3
 2019:8
 guys:8
 full:8
@@ -674,9 +674,9 @@ anymore:15
 should:15
 after:15
 after	true:3
-after	even:3
 after	came:3
 after	say:3
+after	even:3
 without:15
 singers:16
 came:16

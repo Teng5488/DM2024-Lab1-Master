@@ -547,10 +547,10 @@ urbana	illinois:9
 mcmains:9
 mcmains	fact:8
 rumours	mcmains	fact:8
-mcmains	supposedly:8
-mcmains	supposedly	rumours:8
 mcmains	1993apr15:8
 mcmains	1993apr15	rumours:8
+mcmains	supposedly:8
+mcmains	supposedly	rumours:8
 mcmains	68070:8
 mcmains	68070	rumours:8
 mcmains	68070	supposedly:8
@@ -561,14 +561,14 @@ unt	fact:8
 rumours	unt	fact:8
 mcmains	unt	fact:8
 rumours	mcmains	unt	fact:8
-unt	supposedly:8
-unt	supposedly	rumours:8
-unt	supposedly	mcmains:8
-rumours	unt	supposedly	mcmains:8
 unt	1993apr15:8
 unt	1993apr15	rumours:8
 unt	1993apr15	mcmains:8
 rumours	unt	1993apr15	mcmains:8
+unt	supposedly:8
+unt	supposedly	rumours:8
+unt	supposedly	mcmains:8
+rumours	unt	supposedly	mcmains:8
 unt	68070:8
 unt	68070	rumours:8
 unt	68070	mcmains:8
@@ -665,12 +665,12 @@ recent:10
 bob:10
 enjoy:10
 tasks:10
-tasks	removal:8
-tasks	building:8
-tasks	building	removal:8
 tasks	recommend:8
 tasks	offer:8
 recommend	tasks	offer:8
+tasks	removal:8
+tasks	building:8
+tasks	building	removal:8
 complex:10
 highly:10
 jpg:10
@@ -828,14 +828,14 @@ recommend	offer	carpenter	shading	removal:8
 recommend	recommendations	carpenter	shading	removal:8
 offer	recommendations	carpenter	shading	removal:8
 recommend	offer	recommendations	carpenter	shading	removal:8
-carpenter	boeing:9
-carpenter	boeing	recommend:9
 carpenter	offer:9
 recommend	carpenter	offer:9
 carpenter	recommendations:9
 recommend	carpenter	recommendations:9
 offer	carpenter	recommendations:9
 recommend	offer	carpenter	recommendations:9
+carpenter	boeing:9
+carpenter	boeing	recommend:9
 carpenter	recommend:11
 shape:11
 alt:11
@@ -32395,6 +32395,10 @@ concerning	herringshaw	tdawson:11
 personally	concerning	herringshaw	tdawson:11
 proposed	concerning	herringshaw	tdawson:11
 personally	proposed	concerning	herringshaw	tdawson:11
+concerning	feel:12
+personally	concerning	feel:12
+proposed	concerning	feel:12
+personally	proposed	concerning	feel:12
 concerning	tdawson:12
 concerning	tdawson	feel:11
 personally	concerning	tdawson	feel:11
@@ -32403,10 +32407,6 @@ personally	proposed	concerning	tdawson	feel:11
 concerning	tdawson	personally:12
 concerning	tdawson	proposed:12
 personally	concerning	tdawson	proposed:12
-concerning	feel:12
-personally	concerning	feel:12
-proposed	concerning	feel:12
-personally	proposed	concerning	feel:12
 concerning	forum:12
 concerning	forum	tdawson:11
 personally	concerning	forum	tdawson:11
@@ -33813,12 +33813,12 @@ personally	tdawson	feel	forum	proposed	herringshaw	learn:10
 proposed	herringshaw	personally:11
 proposed	herringshaw	tdawson:11
 personally	proposed	herringshaw	tdawson:11
+proposed	feel:12
+personally	proposed	feel:12
 proposed	tdawson:12
 proposed	tdawson	feel:11
 personally	proposed	tdawson	feel:11
 proposed	tdawson	personally:12
-proposed	feel:12
-personally	proposed	feel:12
 proposed	forum:12
 proposed	forum	tdawson:11
 personally	proposed	forum	tdawson:11
@@ -33884,8 +33884,8 @@ sent:16
 sent	release:8
 require:16
 supposedly:16
-supposedly	rumours:8
 supposedly	fact:8
+supposedly	rumours:8
 learn:16
 learn	herringshaw:10
 personally	learn	herringshaw:10

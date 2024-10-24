@@ -1139,6 +1139,38 @@ personally	tdawson	concerning	srvr1	feel	1quvdoinn3e7	forum:7
 personally	proposed	concerning	srvr1	feel	1quvdoinn3e7	forum:7
 tdawson	proposed	concerning	srvr1	feel	1quvdoinn3e7	forum:7
 personally	tdawson	proposed	concerning	srvr1	feel	1quvdoinn3e7	forum:7
+1quvdoinn3e7	herringshaw:7
+1quvdoinn3e7	herringshaw	personally:7
+1quvdoinn3e7	herringshaw	tdawson:7
+personally	1quvdoinn3e7	herringshaw	tdawson:7
+1quvdoinn3e7	herringshaw	proposed:7
+personally	1quvdoinn3e7	herringshaw	proposed:7
+tdawson	1quvdoinn3e7	herringshaw	proposed:7
+personally	tdawson	1quvdoinn3e7	herringshaw	proposed:7
+1quvdoinn3e7	herringshaw	concerning:7
+personally	1quvdoinn3e7	herringshaw	concerning:7
+tdawson	1quvdoinn3e7	herringshaw	concerning:7
+proposed	1quvdoinn3e7	herringshaw	concerning:7
+personally	tdawson	1quvdoinn3e7	herringshaw	concerning:7
+personally	proposed	1quvdoinn3e7	herringshaw	concerning:7
+tdawson	proposed	1quvdoinn3e7	herringshaw	concerning:7
+personally	tdawson	proposed	1quvdoinn3e7	herringshaw	concerning:7
+1quvdoinn3e7	herringshaw	srvr1:7
+personally	1quvdoinn3e7	herringshaw	srvr1:7
+tdawson	1quvdoinn3e7	herringshaw	srvr1:7
+proposed	1quvdoinn3e7	herringshaw	srvr1:7
+concerning	1quvdoinn3e7	herringshaw	srvr1:7
+personally	tdawson	1quvdoinn3e7	herringshaw	srvr1:7
+personally	proposed	1quvdoinn3e7	herringshaw	srvr1:7
+personally	concerning	1quvdoinn3e7	herringshaw	srvr1:7
+tdawson	proposed	1quvdoinn3e7	herringshaw	srvr1:7
+tdawson	concerning	1quvdoinn3e7	herringshaw	srvr1:7
+proposed	concerning	1quvdoinn3e7	herringshaw	srvr1:7
+personally	tdawson	proposed	1quvdoinn3e7	herringshaw	srvr1:7
+personally	tdawson	concerning	1quvdoinn3e7	herringshaw	srvr1:7
+personally	proposed	concerning	1quvdoinn3e7	herringshaw	srvr1:7
+tdawson	proposed	concerning	1quvdoinn3e7	herringshaw	srvr1:7
+personally	tdawson	proposed	concerning	1quvdoinn3e7	herringshaw	srvr1:7
 1quvdoinn3e7	learn:7
 1quvdoinn3e7	learn	personally:7
 1quvdoinn3e7	learn	tdawson:7
@@ -33779,38 +33811,6 @@ personally	tdawson	concerning	srvr1	feel	forum	learn	curious	favor	posts	discuss
 personally	proposed	concerning	srvr1	feel	forum	learn	curious	favor	posts	discussing	awful	1quvdoinn3e7	wate	convenience:7
 tdawson	proposed	concerning	srvr1	feel	forum	learn	curious	favor	posts	discussing	awful	1quvdoinn3e7	wate	convenience:7
 personally	tdawson	proposed	concerning	srvr1	feel	forum	learn	curious	favor	posts	discussing	awful	1quvdoinn3e7	wate	convenience:7
-1quvdoinn3e7	herringshaw:7
-1quvdoinn3e7	herringshaw	personally:7
-1quvdoinn3e7	herringshaw	tdawson:7
-personally	1quvdoinn3e7	herringshaw	tdawson:7
-1quvdoinn3e7	herringshaw	proposed:7
-personally	1quvdoinn3e7	herringshaw	proposed:7
-tdawson	1quvdoinn3e7	herringshaw	proposed:7
-personally	tdawson	1quvdoinn3e7	herringshaw	proposed:7
-1quvdoinn3e7	herringshaw	concerning:7
-personally	1quvdoinn3e7	herringshaw	concerning:7
-tdawson	1quvdoinn3e7	herringshaw	concerning:7
-proposed	1quvdoinn3e7	herringshaw	concerning:7
-personally	tdawson	1quvdoinn3e7	herringshaw	concerning:7
-personally	proposed	1quvdoinn3e7	herringshaw	concerning:7
-tdawson	proposed	1quvdoinn3e7	herringshaw	concerning:7
-personally	tdawson	proposed	1quvdoinn3e7	herringshaw	concerning:7
-1quvdoinn3e7	herringshaw	srvr1:7
-personally	1quvdoinn3e7	herringshaw	srvr1:7
-tdawson	1quvdoinn3e7	herringshaw	srvr1:7
-proposed	1quvdoinn3e7	herringshaw	srvr1:7
-concerning	1quvdoinn3e7	herringshaw	srvr1:7
-personally	tdawson	1quvdoinn3e7	herringshaw	srvr1:7
-personally	proposed	1quvdoinn3e7	herringshaw	srvr1:7
-personally	concerning	1quvdoinn3e7	herringshaw	srvr1:7
-tdawson	proposed	1quvdoinn3e7	herringshaw	srvr1:7
-tdawson	concerning	1quvdoinn3e7	herringshaw	srvr1:7
-proposed	concerning	1quvdoinn3e7	herringshaw	srvr1:7
-personally	tdawson	proposed	1quvdoinn3e7	herringshaw	srvr1:7
-personally	tdawson	concerning	1quvdoinn3e7	herringshaw	srvr1:7
-personally	proposed	concerning	1quvdoinn3e7	herringshaw	srvr1:7
-tdawson	proposed	concerning	1quvdoinn3e7	herringshaw	srvr1:7
-personally	tdawson	proposed	concerning	1quvdoinn3e7	herringshaw	srvr1:7
 1quvdoinn3e7	personally:8
 1quvdoinn3e7	tdawson:8
 personally	1quvdoinn3e7	tdawson:8
@@ -34251,6 +34251,14 @@ mcmains	cpu:7
 mcmains	cpu	rumours:7
 mcmains	cpu	vnet:7
 rumours	mcmains	cpu	vnet:7
+mcmains	hernandez:7
+mcmains	hernandez	rumours:7
+mcmains	hernandez	vnet:7
+rumours	mcmains	hernandez	vnet:7
+mcmains	hernandez	cpu:7
+rumours	mcmains	hernandez	cpu:7
+vnet	mcmains	hernandez	cpu:7
+rumours	vnet	mcmains	hernandez	cpu:7
 mcmains	motorola:7
 mcmains	motorola	rumours:7
 mcmains	motorola	fact:7
@@ -34267,35 +34275,27 @@ rumours	fact	mcmains	motorola	68070:7
 rumours	supposedly	mcmains	motorola	68070:7
 fact	supposedly	mcmains	motorola	68070:7
 rumours	fact	supposedly	mcmains	motorola	68070:7
-mcmains	hernandez:7
-mcmains	hernandez	rumours:7
-mcmains	hernandez	vnet:7
-rumours	mcmains	hernandez	vnet:7
-mcmains	hernandez	cpu:7
-rumours	mcmains	hernandez	cpu:7
-vnet	mcmains	hernandez	cpu:7
-rumours	vnet	mcmains	hernandez	cpu:7
 mcmains	fact:8
 rumours	mcmains	fact:8
-mcmains	supposedly:8
-mcmains	supposedly	fact:7
-rumours	mcmains	supposedly	fact:7
-mcmains	supposedly	rumours:8
 mcmains	1993apr15:8
 mcmains	1993apr15	supposedly:7
 mcmains	1993apr15	supposedly	rumours:7
 mcmains	1993apr15	fact:7
 rumours	mcmains	1993apr15	fact:7
 mcmains	1993apr15	rumours:8
+mcmains	supposedly:8
+mcmains	supposedly	fact:7
+rumours	mcmains	supposedly	fact:7
+mcmains	supposedly	rumours:8
 mcmains	68070:8
-mcmains	68070	1993apr15:7
-mcmains	68070	1993apr15	rumours:7
-mcmains	68070	1993apr15	supposedly:7
-rumours	mcmains	68070	1993apr15	supposedly:7
 mcmains	68070	fact:7
 rumours	mcmains	68070	fact:7
 supposedly	mcmains	68070	fact:7
 rumours	supposedly	mcmains	68070	fact:7
+mcmains	68070	1993apr15:7
+mcmains	68070	1993apr15	rumours:7
+mcmains	68070	1993apr15	supposedly:7
+rumours	mcmains	68070	1993apr15	supposedly:7
 mcmains	68070	rumours:8
 mcmains	68070	supposedly:8
 rumours	mcmains	68070	supposedly:8
@@ -34313,6 +34313,38 @@ unt	cpu	vnet:7
 rumours	unt	cpu	vnet:7
 mcmains	unt	cpu	vnet:7
 rumours	mcmains	unt	cpu	vnet:7
+unt	motorola:7
+unt	motorola	rumours:7
+unt	motorola	mcmains:7
+rumours	unt	motorola	mcmains:7
+unt	motorola	fact:7
+rumours	unt	motorola	fact:7
+mcmains	unt	motorola	fact:7
+rumours	mcmains	unt	motorola	fact:7
+unt	motorola	supposedly:7
+rumours	unt	motorola	supposedly:7
+mcmains	unt	motorola	supposedly:7
+fact	unt	motorola	supposedly:7
+rumours	mcmains	unt	motorola	supposedly:7
+rumours	fact	unt	motorola	supposedly:7
+mcmains	fact	unt	motorola	supposedly:7
+rumours	mcmains	fact	unt	motorola	supposedly:7
+unt	motorola	68070:7
+rumours	unt	motorola	68070:7
+mcmains	unt	motorola	68070:7
+fact	unt	motorola	68070:7
+supposedly	unt	motorola	68070:7
+rumours	mcmains	unt	motorola	68070:7
+rumours	fact	unt	motorola	68070:7
+rumours	supposedly	unt	motorola	68070:7
+mcmains	fact	unt	motorola	68070:7
+mcmains	supposedly	unt	motorola	68070:7
+fact	supposedly	unt	motorola	68070:7
+rumours	mcmains	fact	unt	motorola	68070:7
+rumours	mcmains	supposedly	unt	motorola	68070:7
+rumours	fact	supposedly	unt	motorola	68070:7
+mcmains	fact	supposedly	unt	motorola	68070:7
+rumours	mcmains	fact	supposedly	unt	motorola	68070:7
 unt	hernandez:7
 unt	hernandez	rumours:7
 unt	hernandez	mcmains:7
@@ -34425,54 +34457,10 @@ rumours	mcmains	cpu	hernandez	unt	rchland	muchado:7
 rumours	vnet	cpu	hernandez	unt	rchland	muchado:7
 mcmains	vnet	cpu	hernandez	unt	rchland	muchado:7
 rumours	mcmains	vnet	cpu	hernandez	unt	rchland	muchado:7
-unt	motorola:7
-unt	motorola	rumours:7
-unt	motorola	mcmains:7
-rumours	unt	motorola	mcmains:7
-unt	motorola	fact:7
-rumours	unt	motorola	fact:7
-mcmains	unt	motorola	fact:7
-rumours	mcmains	unt	motorola	fact:7
-unt	motorola	supposedly:7
-rumours	unt	motorola	supposedly:7
-mcmains	unt	motorola	supposedly:7
-fact	unt	motorola	supposedly:7
-rumours	mcmains	unt	motorola	supposedly:7
-rumours	fact	unt	motorola	supposedly:7
-mcmains	fact	unt	motorola	supposedly:7
-rumours	mcmains	fact	unt	motorola	supposedly:7
-unt	motorola	68070:7
-rumours	unt	motorola	68070:7
-mcmains	unt	motorola	68070:7
-fact	unt	motorola	68070:7
-supposedly	unt	motorola	68070:7
-rumours	mcmains	unt	motorola	68070:7
-rumours	fact	unt	motorola	68070:7
-rumours	supposedly	unt	motorola	68070:7
-mcmains	fact	unt	motorola	68070:7
-mcmains	supposedly	unt	motorola	68070:7
-fact	supposedly	unt	motorola	68070:7
-rumours	mcmains	fact	unt	motorola	68070:7
-rumours	mcmains	supposedly	unt	motorola	68070:7
-rumours	fact	supposedly	unt	motorola	68070:7
-mcmains	fact	supposedly	unt	motorola	68070:7
-rumours	mcmains	fact	supposedly	unt	motorola	68070:7
 unt	fact:8
 rumours	unt	fact:8
 mcmains	unt	fact:8
 rumours	mcmains	unt	fact:8
-unt	1993apr15:8
-unt	1993apr15	fact:7
-rumours	unt	1993apr15	fact:7
-mcmains	unt	1993apr15	fact:7
-rumours	mcmains	unt	1993apr15	fact:7
-unt	1993apr15	supposedly:7
-unt	1993apr15	supposedly	rumours:7
-unt	1993apr15	supposedly	mcmains:7
-rumours	unt	1993apr15	supposedly	mcmains:7
-unt	1993apr15	rumours:8
-unt	1993apr15	mcmains:8
-rumours	unt	1993apr15	mcmains:8
 unt	supposedly:8
 unt	supposedly	fact:7
 rumours	unt	supposedly	fact:7
@@ -34505,6 +34493,18 @@ unt	68070	supposedly:8
 rumours	unt	68070	supposedly:8
 mcmains	unt	68070	supposedly:8
 rumours	mcmains	unt	68070	supposedly:8
+unt	1993apr15:8
+unt	1993apr15	fact:7
+rumours	unt	1993apr15	fact:7
+mcmains	unt	1993apr15	fact:7
+rumours	mcmains	unt	1993apr15	fact:7
+unt	1993apr15	supposedly:7
+unt	1993apr15	supposedly	rumours:7
+unt	1993apr15	supposedly	mcmains:7
+rumours	unt	1993apr15	supposedly	mcmains:7
+unt	1993apr15	rumours:8
+unt	1993apr15	mcmains:8
+rumours	unt	1993apr15	mcmains:8
 unt	rumours:9
 unt	mcmains:9
 rumours	unt	mcmains:9
@@ -51314,11 +51314,11 @@ room:11
 brian:11
 wouldn:11
 fitting:11
+fitting	geometry:7
 fitting	solution:7
 exactly	fitting	solution:7
 edward	fitting	solution:7
 exactly	edward	fitting	solution:7
-fitting	geometry:7
 fitting	exactly:8
 fitting	edward:8
 exactly	fitting	edward:8
@@ -51410,12 +51410,12 @@ vertices:11
 boeing:11
 boeing	offer:7
 recommend	boeing	offer:7
-boeing	shading:7
-boeing	shading	recommend:7
 boeing	recommendations:7
 boeing	recommendations	recommend:7
 boeing	recommendations	offer:7
 recommend	boeing	recommendations	offer:7
+boeing	shading:7
+boeing	shading	recommend:7
 boeing	recommend:10
 1992:11
 000:11
@@ -51430,14 +51430,14 @@ opinion:11
 scott:11
 final:11
 motorola:11
-motorola	released:7
-motorola	released	fact:7
 motorola	rumours:7
 fact	motorola	rumours:7
 motorola	supposedly:7
 fact	motorola	supposedly:7
 rumours	motorola	supposedly:7
 fact	rumours	motorola	supposedly:7
+motorola	released:7
+motorola	released	fact:7
 motorola	fact:8
 consider:11
 electronic:11
@@ -51449,10 +51449,10 @@ gray	64:7
 colour:12
 showing:12
 cpu:12
+cpu	supposedly:7
 cpu	expect:7
 cpu	rumours:7
 cpu	rate:7
-cpu	supposedly:7
 cpu	vnet:7
 cpu	vnet	rumours:7
 cpu	fact:9
@@ -113080,10 +113080,10 @@ feel	personally	forum	learn	proposed	concerning	curious	favor	discussing	posts:1
 platform:13
 oh:13
 supported:13
-supported	changes:7
+supported	open:7
 supported	easily:7
 supported	types:7
-supported	open:7
+supported	changes:7
 compiled:13
 daemon:13
 daemon	feel:7
@@ -115239,10 +115239,10 @@ changes	description:8
 easily:14
 easily	specific:7
 types:14
-types	easily:7
 types	sent:7
 types	april:7
 types	four:7
+types	easily:7
 four:14
 numbers:14
 especially:14
